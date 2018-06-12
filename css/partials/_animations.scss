@@ -1,0 +1,14 @@
+@keyframes colorhover {
+    0%   {color: $white;}
+    100% {color: red;}
+}
+
+@keyframes fadein {
+
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}

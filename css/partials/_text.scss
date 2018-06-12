@@ -1,0 +1,47 @@
+h1,h4,p {
+    color: $white;
+}
+
+h1 {
+    font-family: $roboto;
+    color: $white;
+    animation: fadein 3.5s;
+    -webkit-animation: fadein 3.5s;
+    font-weight: 100;
+}
+
+
+
+
+#summary{
+    font-family: $ubuntu;
+    text-align: center;
+    animation: fadein 10s;
+}
+
+p {
+    font-family: $ubuntu;
+    text-align: center;
+}
+
+a {
+    color: $white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    animation-name: colorhover;
+    animation-duration: 0.7s;
+}
+
+li:hover {    
+    color: red;
+    animation-name: colorhover;
+    animation-duration: 0.7s;   
+}
+
+h2, h3, h4 {
+    color: $white;
+    font-family: $roboto;
+}

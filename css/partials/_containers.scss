@@ -1,0 +1,45 @@
+#bigbox {
+    height: 100%;
+    width: 950vw;
+}
+
+#divone,
+#divtwo,
+#divthree,
+#divfour,
+#divfive,
+.spacer {
+    height: 800px;
+    width: 100vw;
+    float: left;
+    margin: 0;
+}
+
+#divone,
+#divtwo,
+#divthree,
+#divfour,
+#divfive {
+    background-color: $black;
+}
+
+.divspacer {
+    background-color: transparent;
+}
+
+.cell {
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+    background-color: $black;
+    background-image: url(/img/gray_sand.png);
+    text-align: center;
+    top: 0;
+    padding-top: 35px;
+}
+
+.cellspacer {
+    height: 35px;
+    width: 100%;
+    margin: 0;
+}
