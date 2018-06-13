@@ -3,7 +3,7 @@
 body {
   margin: 0;
   background-color: #000;
-  background-image: url("/img/css.png");
+  background-image: url("https://pbonc.github.io/Prime-Resume/img/css.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -52,7 +52,7 @@ html {
   width: 90%;
   margin: 0 auto;
   background-color: #000;
-  background-image: url(/img/gray_sand.png);
+  background-image: url("https://pbonc.github.io/Prime-Resume/img/grey_sand.png");
   text-align: center;
   top: 0;
   padding-top: 35px;
